@@ -11,8 +11,8 @@
   "author": "Jiangkun <tangxinzi@hotmail.com>",
   "license": "ISC",
   "devDependencies": {
-    "gulp": "^3.9.1",
-    "gulp-nodemon": "^2.1.0",
+    "gulp": "^4.0.2",
+    "gulp-nodemon": "^2.5.0",
     "gulp-shell": "^0.5.2"
   },
   "dependencies": {
